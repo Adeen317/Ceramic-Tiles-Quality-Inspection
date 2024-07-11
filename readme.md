@@ -1,7 +1,7 @@
 ## Ceramic Tiles Quality Inspection System OpenCV-Python-Arduino
 #### System Hardware Prototype
 
-![image](https://github.com/Adeen317/Ceramic_Quality_Inspection/assets/112985225/a5ec7c06-d380-4304-ab5b-1191a1ffb630)
+![FYPDemonstration-Trim-ezgif com-crop](https://github.com/user-attachments/assets/b1c3af23-f758-41d5-a3ee-55c5b29e79f5)
 #### System Interface
 
 ![CeramicTilesQualityInspectionSystem2024-01-0601-39-53online-video-cutter com-Trim-ezgif com-video-to-gif-converter](https://github.com/Adeen317/Ceramic_Quality_Inspection/assets/112985225/e7299226-0006-4673-8d20-9a60cda7232e)
