@@ -16,6 +16,9 @@ The system utilizes OpenCV, a powerful computer vision library, to perform defec
 ### Features
 ##### Contour Detection: Identifies and outlines areas of interest, making defects more visible.
 ##### Python Implementation: All code is written in Python, making it easy to understand and modify using computer vision techniques.
+You can access the source code from here:
+- [Source Code ](https://github.com/Adeen317/Ceramic-Tiles-Quality-Inspection/blob/main/app.py)
+
 ### Usage
 To use this system:
 
